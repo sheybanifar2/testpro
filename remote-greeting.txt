@@ -1,1 +1,2 @@
 hi! now trying remote Git on GitHub.
+OKay! i am writing from github.
